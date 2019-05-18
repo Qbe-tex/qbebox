@@ -14,9 +14,13 @@ img[src="https://files.facepunch.com/f/fi/0/6ff31"]{
 
 span.userlevel.level-30, span.userlevel.level-31, span.userlevel.level-32, span.userlevel.level-33, span.userlevel.level-34, span.userlevel.level-35, span.userlevel.level-36, span.userlevel.level-37, span.userlevel.level-38, span.userlevel.level-39{
  color:#EEEEFF;
- background-color: #20B2AA;
+ background-color: #45be6d;
 }
 span.userlevel.level-40, span.userlevel.level-41, span.userlevel.level-42, span.userlevel.level-43, span.userlevel.level-44, span.userlevel.level-45, span.userlevel.level-46, span.userlevel.level-47, span.userlevel.level-48, span.userlevel.level-49{
  color:#FFEEFE; 
- background-color: #0faa6c;
+ background-color: #ecc93f
+}
+span.userlevel.level-50, span.userlevel.level-51, span.userlevel.level-52, span.userlevel.level-53, span.userlevel.level-54, span.userlevel.level-55, span.userlevel.level-56, span.userlevel.level-57, span.userlevel.level-58, span.userlevel.level-59{
+ color:#FFEEFE; 
+ background-color: #ec3f3f;
 }
