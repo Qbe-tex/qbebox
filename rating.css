@@ -4,11 +4,10 @@ span[data-label="Funny"] img{
 span[data-label="Informative"] img{
  content:url("https://svgshare.com/i/BV9.svg");
 }
-.postblock .postfoot .right .votebuttons .votebutton img{
-width: 24px;
-height: 24px;
+@import url('https://diwako.github.io/fpcss/mobile.css');
+span[data-label="Cute"]  .votebutton img{
+ content:url("https://files.facepunch.com/forum/upload/109968/aa8bb586-e4cf-4236-87c8-297933e207df/cutebow.svg");
 }
-.votelist .votebutton img{
-width: 64px;
-height: 64px;
+img[src="https://files.facepunch.com/f/fi/0/6ff31"]{
+ content:url("https://files.facepunch.com/garry/95650b81-5219-41e9-a4db-327e3e8f4144.svg");
 }
